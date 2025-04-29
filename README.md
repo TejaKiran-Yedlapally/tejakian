@@ -1,2 +1,2 @@
 # tejakian
-this is my practice repository
+i am tejakiran yedlapally
